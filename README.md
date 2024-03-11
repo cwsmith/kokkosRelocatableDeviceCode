@@ -1,6 +1,9 @@
 # kokkosRelocatableDeviceCode
 example of kokkos using CUDA rdc
 
+more info:
+https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html#nvcc-options-for-separate-compilation
+
 ## install kokkos
 
 set `cudaArch` for your GPU
